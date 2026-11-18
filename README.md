@@ -9,43 +9,42 @@ Welcome to my GitHub profile! I specialize in building robust AI engineering sys
 ## 💻 Tech Stack & Tooling
 
 ### 🛠️ Languages & Core Frameworks
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python 3.11+** — Primary industry standard for ML/AI tooling, pipelines, and backend routing[cite: 81].
-* **TypeScript** — Used for frontend integrations and custom GitHub Actions[cite: 81].
-* **Go** — High-throughput proxy and gateway layers[cite: 81].
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python 3.11+** — Primary industry standard for ML/AI tooling, pipelines, and backend routing.
+* **TypeScript** — Used for frontend integrations and custom GitHub Actions.
+* **Go** — High-throughput proxy and gateway layers.
 
 ### 🤖 LLM Providers & Serving Tools
-* **OpenAI API** (`gpt-4o`, `gpt-4o-mini`, `text-embedding-3-small`) — Language generation, embeddings, and structured outputs[cite: 81].
-* **Anthropic** (`Claude Sonnet`, `Claude Haiku`, `Claude Opus`) — Cloud models for reasoning, critique, and code comprehension[cite: 81].
-* **Ollama** — Local model execution and local deployment runtime[cite: 81].
-* **vLLM** — High-throughput serving engine with continuous batching and paged attention[cite: 81].
-* **LiteLLM** — Proxy and normalization library for multi-provider fallbacks[cite: 81].
+* **OpenAI API** (`gpt-4o`, `gpt-4o-mini`, `text-embedding-3-small`) — Language generation, embeddings, and structured outputs.
+* **Anthropic** (`Claude Sonnet`, `Claude Haiku`, `Claude Opus`) — Cloud models for reasoning, critique, and code comprehension.
+* **Ollama** — Local model execution and local deployment runtime.
+* **vLLM** — High-throughput serving engine with continuous batching and paged attention.
+* **LiteLLM** — Proxy and normalization library for multi-provider fallbacks.
 
 ### 🔄 Orchestration, Agents, & Workflows
-* **LangGraph** — Stateful multi-agent systems, cyclic graphs, and supervisor-worker topologies[cite: 81].
-* **LangChain** — Orchestration framework, text splitters, and custom chain building[cite: 81].
-* **Instructor / Pydantic** — Strict schema validation and type-safe structured outputs[cite: 81].
+* **LangGraph** — Stateful multi-agent systems, cyclic graphs, and supervisor-worker topologies.
+* **LangChain** — Orchestration framework, text splitters, and custom chain building.
+* **Instructor / Pydantic** — Strict schema validation and type-safe structured outputs.
 
 ### 🗄️ Vector Stores, Databases, & Caching
-* **ChromaDB / Qdrant** — File-based and containerized vector databases[cite: 81].
-* **Redis / RedisVL** — Sub-millisecond vector lookups, caching layers, and token-bucket rate limiting[cite: 81].
-* **PostgreSQL / pgvector** — Durable transactional storage, relational data, and vector embeddings[cite: 81].
-* **Neo4j** — Graph database for Enterprise Knowledge Graph RAG and multi-hop entity relationships[cite: 81].
-* ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) **Docker & Docker Compose** — Containerization and multi-service orchestration[cite: 81].
+* **ChromaDB / Qdrant** — File-based and containerized vector databases.
+* **Redis / RedisVL** — Sub-millisecond vector lookups, caching layers, and token-bucket rate limiting.
+* **PostgreSQL / pgvector** — Durable transactional storage, relational data, and vector embeddings.
+* **Neo4j** — Graph database for Enterprise Knowledge Graph RAG and multi-hop entity relationships.
+* ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) **Docker & Docker Compose** — Containerization and multi-service orchestration.
 
 ### 🧪 Machine Learning, Evals, & Safety Frameworks
 * ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 * ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-* **RAGAS / DeepEval** — Frameworks for evaluating RAG pipelines and model metrics[cite: 81].
-* **garak / PyRIT** — Automated safety red-teaming harnesses for prompt injections[cite: 81].
-* **lm-eval-harness** — Standard evaluation benchmarking for model fine-tuning[cite: 81].
+* **RAGAS / DeepEval** — Frameworks for evaluating RAG pipelines and model metrics.
+* **garak / PyRIT** — Automated safety red-teaming harnesses for prompt injections.
+* **lm-eval-harness** — Standard evaluation benchmarking for model fine-tuning.
 
 ### ⚙️ MLOps, Monitoring, & CI/CD
 * ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-* ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue) **Weights & Biases (W&B) / MLflow** — Experiment tracking and model reproducibility[cite: 81].
-* ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) **FastAPI** — Production-grade serving framework for APIs, proxies, and gateways[cite: 81].
-* **Prometheus & Grafana** — Real-time metrics export and operational dashboards[cite: 81].
-* **OpenTelemetry** — Distributed tracing spans for pipeline and agent observability[cite: 81].
-
+* ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue) **Weights & Biases (W&B) / MLflow** — Experiment tracking and model reproducibility.
+* ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) **FastAPI** — Production-grade serving framework for APIs, proxies, and gateways.
+* **Prometheus & Grafana** — Real-time metrics export and operational dashboards.
+* **OpenTelemetry** — Distributed tracing spans for pipeline and agent observability.
 ---
 
 ### 📊 GitHub Stats
